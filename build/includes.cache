@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/dmounday/myprojects/arduino-1.8.16-linux/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/dmounday/myprojects/arduino-1.8.16-linux/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/dmounday/vsworkspace/modenioADC/build/sketch/adc.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

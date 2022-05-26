@@ -1,0 +1,7 @@
+{
+    "sketch": "adc.ino",
+    "board": "Moteino:avr:Moteino",
+    "programmer": "Moteino:stk500",
+    "output": "build",
+    "port": "/dev/ttyUSB0"
+}
